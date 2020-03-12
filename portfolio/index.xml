@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Patrick Visser Photography</title>
-    <link>http://example.org/portfolio/</link>
+    <link>https://patrickv82.github.io/portfolio/</link>
     <description>Recent content in Portfolio on Patrick Visser Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://patrickv82.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Art-Nude</title>
-      <link>http://example.org/portfolio/art-nude/</link>
+      <link>https://patrickv82.github.io/portfolio/art-nude/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/art-nude/</guid>
+      <guid>https://patrickv82.github.io/portfolio/art-nude/</guid>
       <description>Art-nude is the</description>
     </item>
     
     <item>
       <title>Black And White</title>
-      <link>http://example.org/portfolio/blackandwhite/</link>
+      <link>https://patrickv82.github.io/portfolio/blackandwhite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/blackandwhite/</guid>
+      <guid>https://patrickv82.github.io/portfolio/blackandwhite/</guid>
       <description>Black And White</description>
     </item>
     
     <item>
       <title>BodyScape</title>
-      <link>http://example.org/portfolio/bodyscapes/</link>
+      <link>https://patrickv82.github.io/portfolio/bodyscapes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/bodyscapes/</guid>
+      <guid>https://patrickv82.github.io/portfolio/bodyscapes/</guid>
       <description>this is a test of the markdown
 fklflkfs fklflkfssf df dsf df fjsfjdf
 dfdhf skjhf</description>
@@ -41,28 +41,28 @@ dfdhf skjhf</description>
     
     <item>
       <title>Boudoir</title>
-      <link>http://example.org/portfolio/boudoir/</link>
+      <link>https://patrickv82.github.io/portfolio/boudoir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/boudoir/</guid>
+      <guid>https://patrickv82.github.io/portfolio/boudoir/</guid>
       <description>Boudoir</description>
     </item>
     
     <item>
       <title>Fashion</title>
-      <link>http://example.org/portfolio/fashion/</link>
+      <link>https://patrickv82.github.io/portfolio/fashion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/fashion/</guid>
+      <guid>https://patrickv82.github.io/portfolio/fashion/</guid>
       <description>Fashion</description>
     </item>
     
     <item>
       <title>Glamour</title>
-      <link>http://example.org/portfolio/glamour/</link>
+      <link>https://patrickv82.github.io/portfolio/glamour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/glamour/</guid>
+      <guid>https://patrickv82.github.io/portfolio/glamour/</guid>
       <description>this is a test of the markdown
 fklflkfs fklflkfssf df dsf df fjsfjdf
 dfdhf skjhf</description>
@@ -70,10 +70,10 @@ dfdhf skjhf</description>
     
     <item>
       <title>Latex</title>
-      <link>http://example.org/portfolio/latex/</link>
+      <link>https://patrickv82.github.io/portfolio/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/latex/</guid>
+      <guid>https://patrickv82.github.io/portfolio/latex/</guid>
       <description>this is a test of the markdown
 fklflkfs fklflkfssf df dsf df fjsfjdf
 dfdhf skjhf</description>
@@ -81,10 +81,10 @@ dfdhf skjhf</description>
     
     <item>
       <title>LifeStyle</title>
-      <link>http://example.org/portfolio/lifestyle/</link>
+      <link>https://patrickv82.github.io/portfolio/lifestyle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/lifestyle/</guid>
+      <guid>https://patrickv82.github.io/portfolio/lifestyle/</guid>
       <description>this is a test of the markdown
 fklflkfs fklflkfssf df dsf df fjsfjdf
 dfdhf skjhf</description>
@@ -92,10 +92,10 @@ dfdhf skjhf</description>
     
     <item>
       <title>Portraits</title>
-      <link>http://example.org/portfolio/portraits/</link>
+      <link>https://patrickv82.github.io/portfolio/portraits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/portraits/</guid>
+      <guid>https://patrickv82.github.io/portfolio/portraits/</guid>
       <description>this is a test of the markdown
 fklflkfs fklflkfssf df dsf df fjsfjdf
 dfdhf skjhf</description>
@@ -103,10 +103,10 @@ dfdhf skjhf</description>
     
     <item>
       <title>Sporty</title>
-      <link>http://example.org/portfolio/sporty/</link>
+      <link>https://patrickv82.github.io/portfolio/sporty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/sporty/</guid>
+      <guid>https://patrickv82.github.io/portfolio/sporty/</guid>
       <description>this is a test of the markdown
 fklflkfs fklflkfssf df dsf df fjsfjdf
 dfdhf skjhf</description>

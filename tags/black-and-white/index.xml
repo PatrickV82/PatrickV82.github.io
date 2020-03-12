@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Black And White on Patrick Visser Photography</title>
-    <link>http://example.org/tags/black-and-white/</link>
+    <link>https://patrickv82.github.io/tags/black-and-white/</link>
     <description>Recent content in Black And White on Patrick Visser Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Mar 2020 18:33:11 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/black-and-white/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://patrickv82.github.io/tags/black-and-white/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New website</title>
-      <link>http://example.org/posts/test22/</link>
+      <link>https://patrickv82.github.io/posts/test22/</link>
       <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
       
-      <guid>http://example.org/posts/test22/</guid>
+      <guid>https://patrickv82.github.io/posts/test22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black And White</title>
-      <link>http://example.org/portfolio/blackandwhite/</link>
+      <link>https://patrickv82.github.io/portfolio/blackandwhite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/blackandwhite/</guid>
+      <guid>https://patrickv82.github.io/portfolio/blackandwhite/</guid>
       <description>Black And White</description>
     </item>
     
