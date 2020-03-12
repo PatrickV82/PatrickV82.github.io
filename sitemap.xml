@@ -1,93 +1,177 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://patrickv82.github.io/gallery/2018-10-1-wales/</loc>
-<lastmod>2018-10-01T00:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/art-nude/</loc>
-<lastmod>2020-02-12T18:04:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/bodyscapes/</loc>
-<lastmod>2020-02-12T18:04:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/glamour/</loc>
-<lastmod>2020-02-12T18:04:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/latex/</loc>
-<lastmod>2020-02-12T18:04:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/lifestyle/</loc>
-<lastmod>2020-02-12T18:04:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/sporty/</loc>
-<lastmod>2020-02-12T18:04:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/blackandwhite/</loc>
-<lastmod>2020-02-12T18:04:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/boudoir/</loc>
-<lastmod>2020-02-12T18:04:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/fashion/</loc>
-<lastmod>2020-02-12T18:04:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/portraits/</loc>
-<lastmod>2020-02-12T18:04:18+01:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/2019/04/20/jezzebelle.html</loc>
-<lastmod>2019-04-20T00:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/2019/05/23/Leaf.html</loc>
-<lastmod>2019-05-23T00:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/2019/08/24/nicky.html</loc>
-<lastmod>2019-08-24T00:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/review/2018-10-4-wales/</loc>
-<lastmod>2018-10-04T00:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>https://patrickv82.github.io/contact/</loc>
-</url>
-<url>
-<loc>https://patrickv82.github.io/copyright/</loc>
-</url>
-<url>
-<loc>https://patrickv82.github.io/gallery/</loc>
-</url>
-<url>
-<loc>https://patrickv82.github.io/portfolio/</loc>
-</url>
-<url>
-<loc>https://patrickv82.github.io/review/</loc>
-</url>
-<url>
-<loc>https://patrickv82.github.io/about/</loc>
-</url>
-<url>
-<loc>https://patrickv82.github.io/about/ordering/</loc>
-</url>
-<url>
-<loc>https://patrickv82.github.io/</loc>
-</url>
-<url>
-<loc>https://patrickv82.github.io/privacy/</loc>
-</url>
-<url>
-<loc>https://patrickv82.github.io/updates/</loc>
-</url>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/tags/art-nude/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/black-and-white/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/bodyscape/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/boudoir/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/fashion/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/glamour/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/latex/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/lifestyle/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/test22/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/portrait/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/portraits/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/sporty/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-02-18T20:05:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/gallery/20180802-arthemis/</loc>
+    <lastmod>2020-02-18T20:05:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/gallery/</loc>
+    <lastmod>2020-02-18T20:05:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/ordering/</loc>
+    <lastmod>2020-02-18T19:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-02-18T19:55:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2020-02-18T19:54:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/chaperone/</loc>
+    <lastmod>2020-02-18T19:48:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+    <lastmod>2020-02-18T19:48:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/privacy/</loc>
+    <lastmod>2020-02-18T19:48:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reviews/</loc>
+    <lastmod>2020-02-18T19:48:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tc/</loc>
+    <lastmod>2020-02-18T19:48:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/art-nude/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/blackandwhite/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/bodyscapes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/boudoir/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/copyright/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/fashion/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/glamour/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/latex/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/lifestyle/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/portraits/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/sporty/</loc>
+  </url>
+  
 </urlset>

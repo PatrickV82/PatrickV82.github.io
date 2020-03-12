@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Patrick Visser Photography</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Patrick Visser Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Mar 2020 18:33:11 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>art-nude</title>
+      <link>http://example.org/tags/art-nude/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/art-nude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black And White</title>
+      <link>http://example.org/tags/black-and-white/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/black-and-white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BodyScape</title>
+      <link>http://example.org/tags/bodyscape/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/bodyscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boudoir</title>
+      <link>http://example.org/tags/boudoir/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/boudoir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>http://example.org/tags/fashion/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glamour</title>
+      <link>http://example.org/tags/glamour/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/glamour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latex</title>
+      <link>http://example.org/tags/latex/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LifeStyle</title>
+      <link>http://example.org/tags/lifestyle/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portrait</title>
+      <link>http://example.org/tags/portrait/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/portrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portraits</title>
+      <link>http://example.org/tags/portraits/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/portraits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sporty</title>
+      <link>http://example.org/tags/sporty/</link>
+      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      
+      <guid>http://example.org/tags/sporty/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
