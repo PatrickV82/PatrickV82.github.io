@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welkom title on Patrick Visser Photography</title>
+    <title>Welcome to Patrick Visser Photography on Patrick Visser Photography</title>
     <link>https://patrickv82.github.io/</link>
-    <description>Recent content in Welkom title on Patrick Visser Photography</description>
+    <description>Recent content in Welcome to Patrick Visser Photography on Patrick Visser Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Feb 2020 19:55:18 +0100</lastBuildDate>
@@ -85,6 +85,17 @@
     
     <item>
       <title>Art-Nude</title>
+      <link>https://patrickv82.github.io/home/art-nude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patrickv82.github.io/home/art-nude/</guid>
+      <description>this is a test of the markdown
+fklflkfs fklflkfssf df dsf df fjsfjdf
+dfdhf skjhf</description>
+    </item>
+    
+    <item>
+      <title>Art-Nude</title>
       <link>https://patrickv82.github.io/portfolio/art-nude/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -94,11 +105,33 @@
     
     <item>
       <title>Black And White</title>
+      <link>https://patrickv82.github.io/home/blackandwhite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patrickv82.github.io/home/blackandwhite/</guid>
+      <description>this is a test of the markdown
+fklflkfs fklflkfssf df dsf df fjsfjdf
+dfdhf skjhf</description>
+    </item>
+    
+    <item>
+      <title>Black And White</title>
       <link>https://patrickv82.github.io/portfolio/blackandwhite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://patrickv82.github.io/portfolio/blackandwhite/</guid>
       <description>Black And White</description>
+    </item>
+    
+    <item>
+      <title>BodyScape</title>
+      <link>https://patrickv82.github.io/home/bodyscapes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patrickv82.github.io/home/bodyscapes/</guid>
+      <description>this is a test of the markdown
+fklflkfs fklflkfssf df dsf df fjsfjdf
+dfdhf skjhf</description>
     </item>
     
     <item>
@@ -118,6 +151,15 @@ dfdhf skjhf</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://patrickv82.github.io/portfolio/boudoir/</guid>
+      <description>Boudoir</description>
+    </item>
+    
+    <item>
+      <title>boudoir</title>
+      <link>https://patrickv82.github.io/home/boudoir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patrickv82.github.io/home/boudoir/</guid>
       <description>Boudoir</description>
     </item>
     
@@ -171,6 +213,15 @@ dfdhf skjhf</description>
       <description>this is a test of the markdown
 fklflkfs fklflkfssf df dsf df fjsfjdf
 dfdhf skjhf</description>
+    </item>
+    
+    <item>
+      <title>Portraits</title>
+      <link>https://patrickv82.github.io/home/portret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patrickv82.github.io/home/portret/</guid>
+      <description>Portraits</description>
     </item>
     
     <item>
