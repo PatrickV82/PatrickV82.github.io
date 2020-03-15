@@ -17,8 +17,8 @@ $(window).on('load', function() {
             revapi2 = tpj("#home_slider").show().revolution({
                 sliderType:"standard",
                 jsFileLocation:"js/revolutionslider/",
-                sliderLayout:"fullscreen",
-                delay:9000,
+                sliderLayout:"fullwidth",
+                delay:5000,
                 navigation: {
                     arrows: {
                         style: "hermes",
@@ -58,12 +58,12 @@ $(window).on('load', function() {
                     levels:[2,3,4,5,8,10,12,16,30],
                 },
                 shadow:0,
-                spinner:"off",
+                spinner:"on",
                 stopLoop:"off",
                 stopAfterLoops:0,
                 stopAtSlide:0,
                 disableProgressBar:"on",
-                shuffle:"off",
+                shuffle:"on",
             });
         }
 

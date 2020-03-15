@@ -1525,7 +1525,6 @@ $(window).on('load', function() {
         $.fn.digits = function(){ return this.each(function(){ $(this).text( $(this).text().replace(/\B(?=(\d{3})+(?!\d))/g, ".")) }); }
         $(".digits").digits();
 
-
         if ($('.countdown').length > 0){
             $(".countdown").each(function(){
                 var $this = $(this),
