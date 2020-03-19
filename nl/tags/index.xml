@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Patrick Visser Photography</title><link>https://patrickv82.github.io/nl/tags/</link><description>Recent content in Tags on Patrick Visser Photography</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2020 20:05:06 +0100</lastBuildDate><atom:link href="https://patrickv82.github.io/nl/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>art-nude</title><link>https://patrickv82.github.io/nl/tags/art-nude/</link><pubDate>Tue, 18 Feb 2020 20:05:06 +0100</pubDate><guid>https://patrickv82.github.io/nl/tags/art-nude/</guid><description/></item><item><title>portrait</title><link>https://patrickv82.github.io/nl/tags/portrait/</link><pubDate>Tue, 18 Feb 2020 20:05:06 +0100</pubDate><guid>https://patrickv82.github.io/nl/tags/portrait/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Patrick Visser Photography</title>
+    <link>https://patrickv82.github.io/nl/tags/</link>
+    <description>Recent content in Tags on Patrick Visser Photography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2020 20:05:06 +0100</lastBuildDate>
+    
+	<atom:link href="https://patrickv82.github.io/nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>art-nude</title>
+      <link>https://patrickv82.github.io/nl/tags/art-nude/</link>
+      <pubDate>Tue, 18 Feb 2020 20:05:06 +0100</pubDate>
+      
+      <guid>https://patrickv82.github.io/nl/tags/art-nude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portrait</title>
+      <link>https://patrickv82.github.io/nl/tags/portrait/</link>
+      <pubDate>Tue, 18 Feb 2020 20:05:06 +0100</pubDate>
+      
+      <guid>https://patrickv82.github.io/nl/tags/portrait/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
