@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Patrick Visser Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2020 18:33:11 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 18:54:45 +0100</lastBuildDate>
     
 	<atom:link href="https://patrickv82.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>art-nude</title>
       <link>https://patrickv82.github.io/tags/art-nude/</link>
-      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
+      <pubDate>Wed, 25 Mar 2020 18:54:45 +0100</pubDate>
       
       <guid>https://patrickv82.github.io/tags/art-nude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portrait</title>
+      <link>https://patrickv82.github.io/tags/portrait/</link>
+      <pubDate>Wed, 25 Mar 2020 18:54:45 +0100</pubDate>
+      
+      <guid>https://patrickv82.github.io/tags/portrait/</guid>
       <description></description>
     </item>
     
@@ -80,15 +89,6 @@
       <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
       
       <guid>https://patrickv82.github.io/tags/lifestyle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portrait</title>
-      <link>https://patrickv82.github.io/tags/portrait/</link>
-      <pubDate>Mon, 09 Mar 2020 18:33:11 +0100</pubDate>
-      
-      <guid>https://patrickv82.github.io/tags/portrait/</guid>
       <description></description>
     </item>
     

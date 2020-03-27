@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://patrickv82.github.io/tags/art-nude/</loc>
-    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
+    <lastmod>2020-03-25T18:54:45+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -15,6 +15,61 @@
                 hreflang="en"
                 href="https://patrickv82.github.io/tags/art-nude/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://patrickv82.github.io/gallery/</loc>
+    <lastmod>2020-03-25T18:54:45+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://patrickv82.github.io/nl/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://patrickv82.github.io/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://patrickv82.github.io/tags/portrait/</loc>
+    <lastmod>2020-03-25T18:54:45+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://patrickv82.github.io/nl/tags/portrait/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://patrickv82.github.io/tags/portrait/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://patrickv82.github.io/tags/</loc>
+    <lastmod>2020-03-25T18:54:45+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://patrickv82.github.io/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://patrickv82.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://patrickv82.github.io/gallery/wales2018/</loc>
+    <lastmod>2020-03-25T18:54:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patrickv82.github.io/posts/strong/</loc>
+    <lastmod>2020-03-19T18:02:41+01:00</lastmod>
   </url>
   
   <url>
@@ -58,21 +113,6 @@
   </url>
   
   <url>
-    <loc>https://patrickv82.github.io/tags/portrait/</loc>
-    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://patrickv82.github.io/nl/tags/portrait/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://patrickv82.github.io/tags/portrait/"
-                />
-  </url>
-  
-  <url>
     <loc>https://patrickv82.github.io/tags/portraits/</loc>
     <lastmod>2020-03-09T18:33:11+01:00</lastmod>
   </url>
@@ -83,52 +123,22 @@
   </url>
   
   <url>
-    <loc>https://patrickv82.github.io/tags/</loc>
-    <lastmod>2020-03-09T18:33:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://patrickv82.github.io/nl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://patrickv82.github.io/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://patrickv82.github.io/posts/</loc>
     <lastmod>2020-02-18T20:05:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://patrickv82.github.io/gallery/20180802-arthemis/</loc>
+    <loc>https://patrickv82.github.io/gallery/20180802-artemis-fauna-/</loc>
     <lastmod>2020-02-18T20:05:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://patrickv82.github.io/nl/gallery/20180802-arthemis/"
+                href="https://patrickv82.github.io/nl/gallery/20180802-artemis-fauna-/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://patrickv82.github.io/gallery/20180802-arthemis/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://patrickv82.github.io/gallery/</loc>
-    <lastmod>2020-02-18T20:05:06+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://patrickv82.github.io/nl/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://patrickv82.github.io/gallery/"
+                href="https://patrickv82.github.io/gallery/20180802-artemis-fauna-/"
                 />
   </url>
   
