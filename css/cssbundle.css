@@ -3349,9 +3349,7 @@ website:    http://www.themepunch.com
 /* Antares Demo Styles
 ================================================== */
 
-	/* Page Fonts */
-	@import url(https://fonts.googleapis.com/css?family=Dosis:400,500,300);
-	@import url(https://fonts.googleapis.com/css?family=Bad+Script);
+
 	.dosis{font-family: 'Dosis', sans-serif !important;}
 	.badscript{font-family: 'Bad Script', cursive !important;}
 
