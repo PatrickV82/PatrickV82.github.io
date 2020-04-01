@@ -366,7 +366,7 @@
 	.video-trigger iframe{ min-height: 300px; }
 	/* Video Trigger in slider */
 	.video-trigger.slick-slide img, .slick-slide .video-trigger img{ width: auto; height: auto; margin:0 auto; }
-	.thumbnail-img{ padding:4px; display: inline-block; position: relative; width:auto; max-width: 100%; background-color:transparent; border:1px solid #ddd; border-radius: 5px;}
+	.thumbnail-img{ padding:4px; display: inline-block; position: relative; width:auto; max-width: 100%; background-color:transparent; border-radius: 5px;}
 	.thumbnail-img.circle{ border-radius: 100%; padding:4px; }
 	.thumbnail-img.thumbnail-xxs{ max-width: 60px;}
 	.thumbnail-img.thumbnail-xs{ max-width: 90px;}
